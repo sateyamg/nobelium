@@ -1,0 +1,4 @@
+Q . 
+
+[A[A[C[CQ. What is the difference between git stash apply and git stash pop?
+Ans: the git stash apply command leaves the topmost stash on the stash list so that we can later use it on the other hand the git stash pop command removes or thorw away the latest or the topmost stash
